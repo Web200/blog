@@ -37,7 +37,7 @@ The Luma / [Hyva](https://www.hyva.io/){:target="_blank"} theme has a native ver
  * For all data exchanges, you will need to use the GraphQL endpoints available in Magento, or even create new ones for specific needs.
  Currently, Magento does not cover 100% of the requirements for an application with its GraphQL API.
 
-#### Having a React Native application.
+#### Build a React Native application.
 
  * You will need a team proficient in React Native and with some knowledge of iOS/Android builds to create an application.
  * For all data exchanges, you will need to use the GraphQL endpoints available in Magento, or even create new ones for specific needs.
