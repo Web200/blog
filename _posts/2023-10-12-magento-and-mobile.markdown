@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Magento and Mobile"
-date:   2023-10-12 20:42:02 +0200
+date:   2023-10-18 20:42:02 +0200
 categories: magento pwa hyva turbo 
 ---
 Magento currently allows building a website "simply".  
@@ -48,6 +48,5 @@ The Luma / [Hyva](https://www.hyva.io/){:target="_blank"} theme has a native ver
  * You keep your native web theme, and you just need to build the iOS/Android application.
  * No need to build and publish a version on the App Store/Play Store with every change, as it's your website that's integrated into the application's webview.
  * Turbo Native App showcase available here : [turbonative.directory](https://turbonative.directory/){:target="_blank"}
-
 
 ## Next step : How to use Turbo with Magento Easily ?
