@@ -2,7 +2,7 @@
 layout: post
 title:  "Magento & Turbo"
 date:   2023-10-12 20:42:02 +0200
-categories: magento pwa hyva turbo 
+categories: magento turbo 
 ---
 
 The first step to having a native application with [Turbo Android](https://github.com/hotwired/turbo-android) / [Turbo iOS](https://github.com/hotwired/turbo-ios) is to have a Magento that works with Turbo.
