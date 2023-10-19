@@ -50,6 +50,7 @@ github_username:  jekyll
 theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
+  - jekyll-twitter-plugin
 
 ################
 # --- Logo --- #

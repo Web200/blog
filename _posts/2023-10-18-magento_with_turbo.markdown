@@ -69,6 +69,7 @@ To specify that a page should not be cached at all, use the no-cache directive. 
 
 Preview of turbo navigation in chrome :
 
+{% twitter https://twitter.com/rubygems/status/1715081106968424914 %}
 
 To simplify the installation, the easiest way is to install the [Web200_Turbo](*) module.
 
