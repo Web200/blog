@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Magento & Turbo"
-date:   2023-10-12 20:42:02 +0200
+date:   2023-10-18 20:42:02 +0200
 categories: magento turbo 
 ---
 

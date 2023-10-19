@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Magento and Mobile"
-date:   2023-10-18 20:42:02 +0200
+date:   2023-10-12 20:42:02 +0200
 categories: magento pwa hyva turbo 
 ---
 Magento currently allows building a website "simply".  
