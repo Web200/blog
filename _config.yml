@@ -42,7 +42,7 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.web200.fr" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
